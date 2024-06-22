@@ -30,6 +30,7 @@
         {
             this.dgvDiscos = new System.Windows.Forms.DataGridView();
             this.pbxImagen = new System.Windows.Forms.PictureBox();
+            this.btnAgregar = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dgvDiscos)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pbxImagen)).BeginInit();
             this.SuspendLayout();
@@ -55,11 +56,21 @@
             this.pbxImagen.TabIndex = 1;
             this.pbxImagen.TabStop = false;
             // 
+            // btnAgregar
+            // 
+            this.btnAgregar.Location = new System.Drawing.Point(12, 324);
+            this.btnAgregar.Name = "btnAgregar";
+            this.btnAgregar.Size = new System.Drawing.Size(75, 23);
+            this.btnAgregar.TabIndex = 2;
+            this.btnAgregar.Text = "Agregar";
+            this.btnAgregar.UseVisualStyleBackColor = true;
+            // 
             // frmCatalogo
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(882, 450);
+            this.Controls.Add(this.btnAgregar);
             this.Controls.Add(this.pbxImagen);
             this.Controls.Add(this.dgvDiscos);
             this.Name = "frmCatalogo";
@@ -76,6 +87,7 @@
 
         private System.Windows.Forms.DataGridView dgvDiscos;
         private System.Windows.Forms.PictureBox pbxImagen;
+        private System.Windows.Forms.Button btnAgregar;
     }
 }
 
