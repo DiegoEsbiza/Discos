@@ -1,0 +1,6 @@
+C:\Users\diego\source\repos\Catalogo-Discos\Conexiones\bin\Debug\Conexiones.dll
+C:\Users\diego\source\repos\Catalogo-Discos\Conexiones\bin\Debug\Conexiones.pdb
+C:\Users\diego\source\repos\Catalogo-Discos\Conexiones\obj\Debug\Conexiones.csproj.AssemblyReference.cache
+C:\Users\diego\source\repos\Catalogo-Discos\Conexiones\obj\Debug\Conexiones.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\Catalogo-Discos\Conexiones\obj\Debug\Conexiones.dll
+C:\Users\diego\source\repos\Catalogo-Discos\Conexiones\obj\Debug\Conexiones.pdb
