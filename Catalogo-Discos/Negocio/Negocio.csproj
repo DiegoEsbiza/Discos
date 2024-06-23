@@ -42,7 +42,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DiscosNegocio.cs" />
+    <Compile Include="EstilosNegocio.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TiposEdicionNegocio.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Conexiones\Conexiones.csproj">

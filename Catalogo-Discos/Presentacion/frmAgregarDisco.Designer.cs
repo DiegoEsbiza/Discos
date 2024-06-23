@@ -108,6 +108,7 @@
             // 
             // cboEstilos
             // 
+            this.cboEstilos.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cboEstilos.FormattingEnabled = true;
             this.cboEstilos.Location = new System.Drawing.Point(134, 140);
             this.cboEstilos.Name = "cboEstilos";
@@ -125,6 +126,7 @@
             // 
             // cboFormatoEdicion
             // 
+            this.cboFormatoEdicion.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cboFormatoEdicion.FormattingEnabled = true;
             this.cboFormatoEdicion.Location = new System.Drawing.Point(134, 167);
             this.cboFormatoEdicion.Name = "cboFormatoEdicion";
@@ -133,9 +135,9 @@
             // 
             // pbxImagenTapa
             // 
-            this.pbxImagenTapa.Location = new System.Drawing.Point(379, 64);
+            this.pbxImagenTapa.Location = new System.Drawing.Point(379, 38);
             this.pbxImagenTapa.Name = "pbxImagenTapa";
-            this.pbxImagenTapa.Size = new System.Drawing.Size(220, 208);
+            this.pbxImagenTapa.Size = new System.Drawing.Size(220, 220);
             this.pbxImagenTapa.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pbxImagenTapa.TabIndex = 10;
             this.pbxImagenTapa.TabStop = false;
@@ -155,6 +157,7 @@
             this.txtUrlImagen.Name = "txtUrlImagen";
             this.txtUrlImagen.Size = new System.Drawing.Size(210, 20);
             this.txtUrlImagen.TabIndex = 12;
+            this.txtUrlImagen.Leave += new System.EventHandler(this.txtUrlImagen_Leave);
             // 
             // btnAgregar
             // 
@@ -164,6 +167,7 @@
             this.btnAgregar.TabIndex = 13;
             this.btnAgregar.Text = "Agregar";
             this.btnAgregar.UseVisualStyleBackColor = true;
+            this.btnAgregar.Click += new System.EventHandler(this.btnAgregar_Click);
             // 
             // btnCerrar
             // 
@@ -173,6 +177,7 @@
             this.btnCerrar.TabIndex = 14;
             this.btnCerrar.Text = "Cerrar";
             this.btnCerrar.UseVisualStyleBackColor = true;
+            this.btnCerrar.Click += new System.EventHandler(this.btnCerrar_Click);
             // 
             // lblNuevoDisco
             // 
@@ -199,7 +204,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(608, 297);
+            this.ClientSize = new System.Drawing.Size(645, 297);
             this.Controls.Add(this.btnLevantarImagen);
             this.Controls.Add(this.lblNuevoDisco);
             this.Controls.Add(this.btnCerrar);
@@ -222,6 +227,7 @@
             this.Name = "frmAgregarDisco";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Nuevo Disco";
+            this.Load += new System.EventHandler(this.frmAgregarDisco_Load);
             ((System.ComponentModel.ISupportInitialize)(this.numCantidadCanciones)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pbxImagenTapa)).EndInit();
             this.ResumeLayout(false);

@@ -3,7 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\diego\\source\\repos\\Discos\\Catalogo-Discos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D548D35B-27E6-4382-9C4C-4795984DD921}|Presentacion\\Presentacion.csproj|C:\\Users\\diego\\source\\repos\\Discos\\Catalogo-Discos\\presentacion\\catalogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D548D35B-27E6-4382-9C4C-4795984DD921}|Presentacion\\Presentacion.csproj|c:\\users\\diego\\source\\repos\\discos\\catalogo-discos\\presentacion\\frmagregardisco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D548D35B-27E6-4382-9C4C-4795984DD921}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\frmagregardisco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D548D35B-27E6-4382-9C4C-4795984DD921}|Presentacion\\Presentacion.csproj|C:\\Users\\diego\\source\\repos\\Discos\\Catalogo-Discos\\presentacion\\frmagregardisco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D548D35B-27E6-4382-9C4C-4795984DD921}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\frmagregardisco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D548D35B-27E6-4382-9C4C-4795984DD921}|Presentacion\\Presentacion.csproj|c:\\users\\diego\\source\\repos\\discos\\catalogo-discos\\presentacion\\catalogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D548D35B-27E6-4382-9C4C-4795984DD921}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\catalogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -11,8 +19,20 @@
       "RelativeMoniker": "D:0:0:{D548D35B-27E6-4382-9C4C-4795984DD921}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\catalogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D548D35B-27E6-4382-9C4C-4795984DD921}|Presentacion\\Presentacion.csproj|c:\\users\\diego\\source\\repos\\discos\\catalogo-discos\\presentacion\\frmagregardisco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D548D35B-27E6-4382-9C4C-4795984DD921}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\frmagregardisco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{84B40886-D3EB-4FE0-900D-63A9F05B2EF3}|Negocio\\Negocio.csproj|c:\\users\\diego\\source\\repos\\discos\\catalogo-discos\\negocio\\discosnegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84B40886-D3EB-4FE0-900D-63A9F05B2EF3}|Negocio\\Negocio.csproj|solutionrelative:negocio\\discosnegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B40886-D3EB-4FE0-900D-63A9F05B2EF3}|Negocio\\Negocio.csproj|c:\\users\\diego\\source\\repos\\discos\\catalogo-discos\\negocio\\estilosnegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84B40886-D3EB-4FE0-900D-63A9F05B2EF3}|Negocio\\Negocio.csproj|solutionrelative:negocio\\estilosnegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE5B3969-FFFE-488E-80C1-30DECBDA06A0}|Dominio\\Dominio.csproj|c:\\users\\diego\\source\\repos\\discos\\catalogo-discos\\dominio\\discos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE5B3969-FFFE-488E-80C1-30DECBDA06A0}|Dominio\\Dominio.csproj|solutionrelative:dominio\\discos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FBD3AF6-0648-44CD-9315-0B0F59C12873}|Conexiones\\Conexiones.csproj|c:\\users\\diego\\source\\repos\\discos\\catalogo-discos\\conexiones\\conexiones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FBD3AF6-0648-44CD-9315-0B0F59C12873}|Conexiones\\Conexiones.csproj|solutionrelative:conexiones\\conexiones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +42,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
+              "Title": "Discos.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\Discos\\Catalogo-Discos\\Dominio\\Discos.cs",
+              "RelativeDocumentMoniker": "Dominio\\Discos.cs",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\Discos\\Catalogo-Discos\\Dominio\\Discos.cs",
+              "RelativeToolTip": "Dominio\\Discos.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T09:24:46.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Conexiones.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\Discos\\Catalogo-Discos\\Conexiones\\Conexiones.cs",
+              "RelativeDocumentMoniker": "Conexiones\\Conexiones.cs",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\Discos\\Catalogo-Discos\\Conexiones\\Conexiones.cs",
+              "RelativeToolTip": "Conexiones\\Conexiones.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAuwDMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T07:51:24.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DiscosNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\Discos\\Catalogo-Discos\\Negocio\\DiscosNegocio.cs",
+              "RelativeDocumentMoniker": "Negocio\\DiscosNegocio.cs",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\Discos\\Catalogo-Discos\\Negocio\\DiscosNegocio.cs",
+              "RelativeToolTip": "Negocio\\DiscosNegocio.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAswEsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T07:42:21.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EstilosNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\Discos\\Catalogo-Discos\\Negocio\\EstilosNegocio.cs",
+              "RelativeDocumentMoniker": "Negocio\\EstilosNegocio.cs",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\Discos\\Catalogo-Discos\\Negocio\\EstilosNegocio.cs",
+              "RelativeToolTip": "Negocio\\EstilosNegocio.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T07:01:04.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmAgregarDisco.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\Discos\\Catalogo-Discos\\Presentacion\\frmAgregarDisco.cs",
+              "RelativeDocumentMoniker": "Presentacion\\frmAgregarDisco.cs",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\Discos\\Catalogo-Discos\\Presentacion\\frmAgregarDisco.cs",
+              "RelativeToolTip": "Presentacion\\frmAgregarDisco.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAIwEsAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T06:48:10.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "frmAgregarDisco.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\Discos\\Catalogo-Discos\\Presentacion\\frmAgregarDisco.cs",
               "RelativeDocumentMoniker": "Presentacion\\frmAgregarDisco.cs",
@@ -38,20 +123,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Catalogo.cs",
               "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\Discos\\Catalogo-Discos\\Presentacion\\Catalogo.cs",
               "RelativeDocumentMoniker": "Presentacion\\Catalogo.cs",
               "ToolTip": "C:\\Users\\diego\\source\\repos\\Discos\\Catalogo-Discos\\Presentacion\\Catalogo.cs",
               "RelativeToolTip": "Presentacion\\Catalogo.cs",
-              "ViewState": "AQIAADYAAAAAAAAAAAAAwEUAAAA0AAAA",
+              "ViewState": "AQIAACwAAAAAAAAAAAAwwEsAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-21T21:22:46.002Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Catalogo.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\Discos\\Catalogo-Discos\\Presentacion\\Catalogo.cs",
               "RelativeDocumentMoniker": "Presentacion\\Catalogo.cs",

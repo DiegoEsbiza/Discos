@@ -31,6 +31,7 @@
             this.dgvDiscos = new System.Windows.Forms.DataGridView();
             this.pbxImagen = new System.Windows.Forms.PictureBox();
             this.btnAgregar = new System.Windows.Forms.Button();
+            this.lblTituloFormulario = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.dgvDiscos)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pbxImagen)).BeginInit();
             this.SuspendLayout();
@@ -64,12 +65,25 @@
             this.btnAgregar.TabIndex = 2;
             this.btnAgregar.Text = "Agregar";
             this.btnAgregar.UseVisualStyleBackColor = true;
+            this.btnAgregar.Click += new System.EventHandler(this.btnAgregar_Click);
+            // 
+            // lblTituloFormulario
+            // 
+            this.lblTituloFormulario.AutoSize = true;
+            this.lblTituloFormulario.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblTituloFormulario.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.lblTituloFormulario.Location = new System.Drawing.Point(12, 9);
+            this.lblTituloFormulario.Name = "lblTituloFormulario";
+            this.lblTituloFormulario.Size = new System.Drawing.Size(245, 31);
+            this.lblTituloFormulario.TabIndex = 3;
+            this.lblTituloFormulario.Text = "Catálogo de discos";
             // 
             // frmCatalogo
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(882, 450);
+            this.Controls.Add(this.lblTituloFormulario);
             this.Controls.Add(this.btnAgregar);
             this.Controls.Add(this.pbxImagen);
             this.Controls.Add(this.dgvDiscos);
@@ -80,6 +94,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.dgvDiscos)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pbxImagen)).EndInit();
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
@@ -88,6 +103,7 @@
         private System.Windows.Forms.DataGridView dgvDiscos;
         private System.Windows.Forms.PictureBox pbxImagen;
         private System.Windows.Forms.Button btnAgregar;
+        private System.Windows.Forms.Label lblTituloFormulario;
     }
 }
 

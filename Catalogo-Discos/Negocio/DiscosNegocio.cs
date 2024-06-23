@@ -56,18 +56,30 @@ namespace Negocio
 			}			
         }
 
-		public void Agregar()
+		public void Agregar(Discos nuevo)
 		{
 			AccesoDatos datos = new AccesoDatos();
 
 			try
 			{
+				datos.SetearConsulta("insert into DISCOS (Titulo, FechaLanzamiento, CantidadCanciones, UrlImagenTapa, IdEstilo, IdTipoEdicion) values (@Titulo, @FechaLanzamiento, @CantidadCanciones, @UrlImagenTapa, @IdEstilo, @IdTipoEdicion)");
+				datos.SetearParametro("@Titulo", nuevo.titulo);
+				datos.SetearParametro("@FechaLanzamiento", nuevo.fechaLanzamiento.ToString("yyyy-MM-dd"));
+				datos.SetearParametro("@CantidadCanciones", nuevo.cantidadCanciones.ToString());
+				datos.SetearParametro("@UrlImagenTapa", nuevo.urlImagenTapa);
+				datos.SetearParametro("@IdEstilo", nuevo.estilos.id.ToString());
+				datos.SetearParametro("@IdTipoEdicion", nuevo.tipoEdicion.id.ToString());
 
+				datos.EjecutarAccion();
 			}
 			catch (Exception ex)
 			{
 
 				throw ex;
+			}
+			finally
+			{
+				datos.CerrarConexion();
 			}
 		}
 

@@ -9,3 +9,14 @@ C:\Users\diego\source\repos\Catalogo-Discos\Negocio\obj\Debug\Negocio.csproj.Cor
 C:\Users\diego\source\repos\Catalogo-Discos\Negocio\obj\Debug\Negocio.csproj.Up2Date
 C:\Users\diego\source\repos\Catalogo-Discos\Negocio\obj\Debug\Negocio.dll
 C:\Users\diego\source\repos\Catalogo-Discos\Negocio\obj\Debug\Negocio.pdb
+C:\Users\diego\source\repos\Discos\Catalogo-Discos\Negocio\bin\Debug\Negocio.dll
+C:\Users\diego\source\repos\Discos\Catalogo-Discos\Negocio\bin\Debug\Negocio.pdb
+C:\Users\diego\source\repos\Discos\Catalogo-Discos\Negocio\bin\Debug\Conexiones.dll
+C:\Users\diego\source\repos\Discos\Catalogo-Discos\Negocio\bin\Debug\Dominio.dll
+C:\Users\diego\source\repos\Discos\Catalogo-Discos\Negocio\bin\Debug\Conexiones.pdb
+C:\Users\diego\source\repos\Discos\Catalogo-Discos\Negocio\bin\Debug\Dominio.pdb
+C:\Users\diego\source\repos\Discos\Catalogo-Discos\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\diego\source\repos\Discos\Catalogo-Discos\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\Discos\Catalogo-Discos\Negocio\obj\Debug\Negocio.csproj.Up2Date
+C:\Users\diego\source\repos\Discos\Catalogo-Discos\Negocio\obj\Debug\Negocio.dll
+C:\Users\diego\source\repos\Discos\Catalogo-Discos\Negocio\obj\Debug\Negocio.pdb

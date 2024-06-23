@@ -4,3 +4,9 @@ C:\Users\diego\source\repos\Catalogo-Discos\Dominio\obj\Debug\Dominio.csproj.Ass
 C:\Users\diego\source\repos\Catalogo-Discos\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
 C:\Users\diego\source\repos\Catalogo-Discos\Dominio\obj\Debug\Dominio.dll
 C:\Users\diego\source\repos\Catalogo-Discos\Dominio\obj\Debug\Dominio.pdb
+C:\Users\diego\source\repos\Discos\Catalogo-Discos\Dominio\bin\Debug\Dominio.dll
+C:\Users\diego\source\repos\Discos\Catalogo-Discos\Dominio\bin\Debug\Dominio.pdb
+C:\Users\diego\source\repos\Discos\Catalogo-Discos\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\diego\source\repos\Discos\Catalogo-Discos\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\Discos\Catalogo-Discos\Dominio\obj\Debug\Dominio.dll
+C:\Users\diego\source\repos\Discos\Catalogo-Discos\Dominio\obj\Debug\Dominio.pdb

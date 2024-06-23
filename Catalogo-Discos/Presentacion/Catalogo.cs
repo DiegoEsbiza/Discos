@@ -71,5 +71,11 @@ namespace Presentacion
             dgvDiscos.Columns["UrlImagenTapa"].Visible = false;
         }
 
+        private void btnAgregar_Click(object sender, EventArgs e)
+        {
+            frmAgregarDisco agregar = new frmAgregarDisco();
+            agregar.ShowDialog();
+            cargar();
+        }
     }
 }
